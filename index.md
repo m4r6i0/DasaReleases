@@ -18,9 +18,8 @@ Syntax highlighted code block
 
 
 ```
-
-(<input type='button' value='v1.0!'>
-<button>Download!</button>)
+[Download Release v1.0]
+(https://github.com/m4r6i0/DasaReleases/releases)
 
 Para configuração do sistema consulte a Wiki [Configuração DASA Importer](https://github.com/m4r6i0/DasaReleases/wiki/Configuração-de-banco-de-dados-e-log/).
 
