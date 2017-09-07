@@ -2,7 +2,7 @@
 
 Neste local contém algumas informações das releases do sistema.
 
-### Markdown
+[![Build Status](https://travis-ci.org/pages-themes/dinky.svg?branch=master)](https://travis-ci.org/pages-themes/dinky) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-dinky.svg)](https://badge.fury.io/rb/jekyll-theme-dinky)
 
 Sobre a release V1.0
 
@@ -18,6 +18,9 @@ Syntax highlighted code block
 
 
 ```
+
+(<input type='button' value='v1.0!'>
+<button>Download!</button>)
 
 Para configuração do sistema consulte a Wiki [Configuração DASA Importer](https://github.com/m4r6i0/DasaReleases/wiki/Configuração-de-banco-de-dados-e-log/).
 
